@@ -197,7 +197,7 @@ html{
         background-color: #6430B7;
     }
     .containersec3{
-        margin: auto;
+        margin: auto 100px;
         max-width: 907px;
         /* max-width: 800px; */
         padding-top: 50px;
